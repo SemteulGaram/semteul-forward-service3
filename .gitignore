@@ -1,0 +1,9 @@
+# Dependency
+node_modules/
+
+# Build
+client/static/dist/
+
+# Secrets
+config.json
+forward-manager-config.json
